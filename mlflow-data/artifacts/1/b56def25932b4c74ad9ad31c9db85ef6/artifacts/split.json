@@ -1,0 +1,9 @@
+{
+    "dataset": "Sentiment Labelled Sentences",
+    "records": 3000,
+    "train_size": 1800,
+    "validation_size": 600,
+    "test_size": 600,
+    "random_state": 42,
+    "data_sha256": "31eae95f4b86b0de58ae457463c1e6aa72113cefcf31b2c1c92ed08a1688c8eb"
+}

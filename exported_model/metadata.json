@@ -1,0 +1,17 @@
+{
+    "name": "sentiment-classifier",
+    "version": "5",
+    "alias": "champion",
+    "run_id": "8290343ac40941c4a87683e7e38ffb38",
+    "algorithm": "nb",
+    "C": "not_applicable",
+    "ngram_range": "(1, 2)",
+    "random_state": 42,
+    "train_size": 1800,
+    "validation_size": 600,
+    "test_size": 600,
+    "classes": {
+        "0": "negative",
+        "1": "positive"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "test_accuracy": 0.8016666666666666,
+    "test_precision_macro": 0.802422723475355,
+    "test_recall_macro": 0.8016666666666666,
+    "test_f1_macro": 0.8015426308109235,
+    "test_size": 600
+}
